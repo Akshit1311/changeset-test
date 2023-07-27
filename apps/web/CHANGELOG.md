@@ -1,5 +1,11 @@
 # web
 
+## 2.0.1
+
+### Patch Changes
+
+- c69d399: fix workflow
+
 ## 2.0.1-beta.0
 
 ### Patch Changes
