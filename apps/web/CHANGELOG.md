@@ -1,5 +1,11 @@
 # web
 
+## 4.0.0
+
+### Major Changes
+
+- 7cb814e: Bump to test alpha release
+
 ## 4.0.0-alpha.0
 
 ### Major Changes
